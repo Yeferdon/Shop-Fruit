@@ -1,0 +1,84 @@
+{
+  "fruitsCataloge": [
+    {
+      "id": 1,
+      "name": "Cacao",
+      "price": "15.50$",
+      "img": "https://cdn.shopify.com/s/files/1/0505/0715/3604/products/Untitled-106FX_300x.jpg?v=1626353772",
+      "priceQuantity": "3 Unds",
+      "Beneficts": "El cacao es rico en polifenoles, catequinas, antocianinas y proantocianidinas, que tienen propiedades antioxidantes y pueden influir directamente en la resistencia a la insulina y a su vez reducir el riesgo de diabetes. Por otro lado, tienen propiedades antiinflamatorias, que resultan en efectos cardioprotectores."
+    },
+    {
+      "id": 2,
+      "name": "Piña",
+      "price": "12.99$",
+      "priceQuantity": "2 Unds",
+      "img": "https://freshfruitshop.com/assets/media/attachments/public/608/ab3/ba2/thumb_370_400_300_contain_48a4b15e.jpg",
+      "Beneficts": "Contiene vitamina A, 58 IU, vitamina C 48 mg, vitamina B6, Potasio 109 mg, fibra alimentaria, calcio 13 mg, magnesio, cobre, manganeso y ácido fólico. Es especialmente recomendable para perder peso o como postre saludable."
+    },
+    {
+      "id": 3,
+      "name": "Manzana",
+      "price": "7.60$",
+      "priceQuantity": "1 Kg",
+      "img": "https://th.bing.com/th/id/OIP.NFEWPdFCukZYw-pU-7BRewHaHa?pid=ImgDet&rs=1",
+      "Beneficts": "La manzana nos aporta vitaminas B1 y B6, que evitan el agotamiento mental y refuerzan la memoria. También es fuente de fósforo, mineral presente en los fosfolípidos del cerebro, potasio y sodio, indispensables para la conducción nerviosa. Para fortalecer pelo y uñas."
+    },
+    {
+      "id": 4,
+      "name": "Granade",
+      "price": "13.25$",
+      "priceQuantity": "1 Kg",
+      "img": "https://th.bing.com/th/id/OIP.St3ggmFNWRNw9uIFFxXdtwHaHa?pid=ImgDet&rs=1",
+      "Beneficts": "La granadilla te puede ayudar a prevenir el estreñimiento, los malestares de la gastritis y la acidez. Además, si la consumes con sus semillas le brinda a tu cuerpo un alto contenido de fibra, potasio, calcio, fósforo, hierro, vitaminas, proteínas y carbohidratos."
+    },
+    {
+      "id": 5,
+      "name": "Platano",
+      "price": "7.99$",
+      "priceQuantity": "3 und",
+      "img": "https://expertjuicerreviews.com/wp-content/uploads/2019/03/batch-of-bananas-1024x881.png",
+      "Beneficts": "La banana aporta vitaminas A, C, B1, B2, B6, B9 -ácido fólico- y E. Por otra parte, en cuanto a los minerales, se encuentran el potasio, magnesio, hierro, selenio, zinc y calcio. "
+    },
+    {
+      "id": 6,
+      "name": "Granadilla",
+      "price": "9.19$",
+      "priceQuantity": "1kg",
+      "img": "https://th.bing.com/th/id/OIP.ZdBtsMRPeG-QioaBp_PbYQHaHa?pid=ImgDet&w=600&h=600&rs=1",
+      "Beneficts": "funciona como sedante o tranquilizante natural. Su jugo se usa como estimulante digestivo, también controla la acidez y ayuda a la cicatrización de las ulceras"
+    },
+    {
+      "id": 7,
+      "name": "Pera",
+      "price": "19.40$",
+      "priceQuantity": "1 Kg",
+      "img": "https://th.bing.com/th/id/OIP.Fi5zLA83pK66R4_-AZmuZwAAAA?pid=ImgDet&rs=1",
+      "Beneficts": "Contribuye con el sistema digestivo, Gracias a sus propiedades antinflamatorias y antibacterianas puede regular el funcionamiento del sistema digestivo al igual que reduce la presión arterial."
+    },
+    {
+      "id": 8,
+      "name": "Cereza",
+      "price": "22.30$",
+      "priceQuantity": "0.5 Kg",
+      "img": "https://th.bing.com/th/id/OIP.HcsGOX23P84GtPuu8XPPTAHaHa?pid=ImgDet&rs=1",
+      "Beneficts": "Las cerezas son una de la frutas que más niveles de antioxidantes tienen. Estos compuestos ayudan al cuerpo a luchar contra los radicales libres, que nos hacen envejecer. 7. Menor riesgo de ataques de gota. Comer cerezas reduce el riesgo de ataques de gota en un 35 %, según un estudio realizado a 633 pacientes de gota en la Universidad de Boston."
+    },
+    {
+      "id": 9,
+      "name": "Uva",
+      "price": "19.80$",
+      "priceQuantity": "1 kg",
+      "img": "https://th.bing.com/th/id/OIP.zECeWiLrz23l3vm_kYvIEgHaGB?pid=ImgDet&rs=1",
+      "Beneficts": "Las uvas ayudan a mantener un corazón sano, pues su contenido en potasio mantiene estables los niveles de presión arterial.Además, el resveratrol, uno de los antioxidantes más beneficioso de las uvas, tenía la capacidad de reducir el colesterol."
+    },
+    {
+      "id": 10,
+      "name": "Durazno",
+      "price": "8.35$",
+      "priceQuantity": "1 kg",
+      "img": "https://th.bing.com/th/id/OIP.fyjHWnoMMZZF-kOAwre-CAHaHa?pid=ImgDet&rs=1",
+      "Beneficts": "Los beneficios de comer durazno son tales que en China es considerado un símbolo de larga vida y longevidad. Entre sus cualidades destacan proteger el sistema inmune, reproductivo, nervioso, óseo y el corazón. "
+    }
+  ]
+}

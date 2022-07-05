@@ -1,0 +1,20 @@
+{
+  "name": "shop-fruit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server db.json --watch --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeferdon/Shop-Fruit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yeferdon/Shop-Fruit/issues"
+  },
+  "homepage": "https://github.com/Yeferdon/Shop-Fruit#readme"
+}
